@@ -12,3 +12,15 @@
 body {
     font-family: 'Nanum Myeongjo', serif;
 }
+
+/* headings and logo */
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+}
